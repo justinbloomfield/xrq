@@ -7,8 +7,8 @@ A program for querying the X Resources Database from the command line.
 
 ## Installing
 ```sh
-$ git clone https://github.com/arianon/xres
-$ cd xres
+$ git clone https://github.com/justinbloomfield/xrq
+$ cd xrq
 $ make
 $ sudo make install
 ```
